@@ -11,17 +11,20 @@ This study investigates the relationship between government expenditure on educa
 
 ### Data: 
 This study uses two key datasets from the World Development Indicators (2000-2023):
+
 **1. Education Data:**
 - Literacy rates
 - School enrollment rates
 - Educational attainment levels
 - Government expenditure on education (% of GDP)
+
 **2. Economic Development Data:**
 - GDP per capita (Current US$)
 - GDP growth rates
 - Unemployment rates
 - Poverty headcount ratios
 - Foreign direct investment (FDI)
+
 **Regions analyzed:**
 - Western Europe: Germany, France, Netherlands, Belgium, Switzerland
 - Western Africa: Nigeria, Cameroon, Angola, Namibia, South Africa
